@@ -1,4 +1,4 @@
-KiwiMusic – Hybrid Database System for Music Platforms
+#KiwiMusic – Hybrid Database System for Music Platforms
 📊 SQL + NoSQL Data Architecture for Scalable Music Management
 
 KiwiMusic is a hybrid relational and document-based database system developed as part of IS 455: Database Design & Prototyping at UIUC. It enables efficient music data management, supporting artist profiles, track uploads, playlists, and fan interactions.
